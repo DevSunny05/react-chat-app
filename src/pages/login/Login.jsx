@@ -16,7 +16,7 @@ const Login = () => {
         }else{
             login(email,password)
         }
-        console.log("added")
+        
     }
 
   return (
